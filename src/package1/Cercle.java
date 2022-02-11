@@ -92,6 +92,6 @@ public class Cercle {
         g.drawOval(x - r, y - r, 2 * r, 2 * r);
     }
 	
-	
+	/* ici un commentaire */
 	
 }
